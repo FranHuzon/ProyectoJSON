@@ -7,4 +7,5 @@ Enunciado:
 2. Contar el número de centros.
 3. Filtra los centros que también sean Centros de Salud Primaria.
 4. Pide por teclado un centro y muestra la dirección y el telefono.
-5. "Libre"
+5. Recibe el nombre de un centro y te muestra la dirección y la url en el 
+mapa de Openstreetmap.
